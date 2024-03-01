@@ -1,4 +1,4 @@
-<style>
+
         html {
             scroll-behavior: smooth;
             height: 100%;
@@ -71,11 +71,13 @@
         }
 
         .intro h1 {
+            font-size: 220%;
             background-color: rgba(0, 0, 0, 0.674);
             margin: 10%;
         }
 
         .intrologo img {
+            
             width: 75%;
         }
 
@@ -105,4 +107,3 @@
             color: white;
             background-color: rgba(0, 0, 0, 0.756);
         }
-    </style>
