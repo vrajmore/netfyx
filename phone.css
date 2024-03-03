@@ -18,8 +18,6 @@ body {
     font-family: cursive;
     
     display: flex;
-    flex-direction: column;
-    align-items: center;
     overflow: hidden;
     background-color: #988a8ae0;
     position: fixed;

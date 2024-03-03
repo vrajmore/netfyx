@@ -16,10 +16,10 @@ body {
     border-bottom-right-radius: 50px;
     color: rgb(255, 255, 255);
     font-family: cursive;
-    padding: 10px;
+    
     display: flex;
     overflow: hidden;
-    background-color: #988a8ae0;
+    background-color: #c6d2a2ac;
     position: fixed;
     width: 100%;
     top: 0;
