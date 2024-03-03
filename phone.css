@@ -14,7 +14,7 @@ body {
 .navbar {
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: cursive;
     
     display: flex;
@@ -27,19 +27,21 @@ body {
 
 
 
-.navlogo {
+/* .navlogo {
     display: flex;
     
+} */
+.logo{
+    margin: 0%;
 }
 
-.navlogo h1 {
-    
+.navbar h1 {
+    display: block;
+    margin: 0%;
+    padding: 0%;
 }
 
-.logo {
-    
 
-}
 
 .navbar a {
     text-decoration: none;
@@ -54,10 +56,10 @@ body {
     border-radius: 30px;
 }
 
-.navlink {
+/* .navlink {
 display: flex;
 flex-direction: row-reverse;
-}
+} */
 
 .intro {
     padding-top: 40%;
