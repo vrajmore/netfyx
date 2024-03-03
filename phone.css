@@ -131,7 +131,7 @@ flex-direction: row-reverse;
 }
 
 .al {
-    font-size: 100%;
+    font-size: 20px;
     width: 100%;
     border-radius: 30px;
     margin: 10% auto;
@@ -141,7 +141,7 @@ flex-direction: row-reverse;
 }
 
 .ar {
-    font-size: 100%;
+    font-size: 20px;
     width: 100%;
     border-radius: 30px;
     margin: 10% auto;
