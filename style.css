@@ -18,7 +18,7 @@ body {
     font-family: cursive;
     display: flex;
     overflow: hidden;
-    background-color: #6c6a83ac;
+    background-color: #6a7c83ac;
     position: fixed;
     width: 100%;
     top: 0;
@@ -67,13 +67,14 @@ body {
     color: white;
     text-align: center;
     align-items: center;
-    background-color: rgb(207, 171, 171);
+    background-color: rgb(94, 97, 116);
+    
 }
 
 .intro h1 {
-    font-size: 170%;
+    font-size: 120%;
     border-radius: 30px;
-    background-color: rgba(111, 92, 92, 0.485);
+    background-color: rgba(34, 32, 32, 0.771);
     margin: auto 10%;
     padding: 1%;
 }
@@ -86,7 +87,7 @@ body {
 
 .firstpage {
     min-height: 100%;
-    background-color: rgb(188, 222, 187);
+    background-color: rgb(210, 210, 210);
     display: flex;
     padding: 10% 5%;
 
@@ -102,18 +103,28 @@ body {
     background-color: rgba(111, 92, 92, 0.485);
 }
 
-.card-group {
-    padding: 10px;
+.card-deck {
+    margin: auto;
+    padding: 50px;
+    
 }
 
 .card {
-
-    background-color: #bca2ea96;
-
+    font-size: 15px;
+    height: 500px;
+    width: 350px;
+    padding: 10px;
+    
+    background-color:#ffffff;
+    
 }
 
 .card-img-top {
     height: 250px;
+    
+    align-items: center;
+    align-content: center;
+    
 }
 
 
@@ -121,14 +132,14 @@ body {
 
 .about {
     min-height: 100%;
-    background-color: rgb(187, 222, 220);
+    background-color: rgb(210, 210, 210);
     display: flex;
     padding: 0px 100px;
 
 }
 
 .al {
-    font-size: 170%;
+    font-size: 110%;
     width: 50%;
     border-radius: 30px;
     margin: auto 1%;
@@ -138,7 +149,7 @@ body {
 }
 
 .ar {
-    font-size: 170%;
+    font-size: 110%;
     width: 50%;
     border-radius: 30px;
     margin: auto 1%;

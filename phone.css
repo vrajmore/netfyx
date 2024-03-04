@@ -69,13 +69,13 @@ flex-direction: row-reverse;
     color: white;
     text-align: center;
     align-items: center;
-    background-color: rgb(207, 171, 171);
+    background-color: rgb(94, 97, 116);
 }
 
 .intro h1 {
     font-size: 170%;
     border-radius: 30px;
-    background-color: rgba(111, 92, 92, 0.485);
+    background-color: rgba(34, 32, 32, 0.771);
     margin: auto 10%;
     padding: 1%;
 }
@@ -88,7 +88,7 @@ flex-direction: row-reverse;
 
 .firstpage {
     min-height: 100%;
-    background-color: rgb(188, 222, 187);
+    background-color: rgb(210, 210, 210);
     display: flex;
     padding: 10% 5%;
 
@@ -123,7 +123,7 @@ flex-direction: row-reverse;
 
 .about {
     min-height: 100%;
-    background-color: rgb(187, 222, 220);
+    background-color: rgb(210, 210, 210);
     display: flex;
     flex-direction: column;
     padding: 0px 70px;
